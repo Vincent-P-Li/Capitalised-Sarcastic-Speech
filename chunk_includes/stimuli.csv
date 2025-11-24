@@ -1,4 +1,4 @@
-﻿item,item_id,item_name,group,group_tag,type,change,format,type,critical,speaker,exaggeration,sentence,critical region,question,answer,hasquestion,,,,,,,,,,,,
+﻿item,itemid,item_name,group,group_tag,type,change,format,type,critical,speaker,exaggeration,sentence,critical region,question,answer,hasquestion,,,,,,,,,,,,
 1,library_cap_lit,library,1,library1,exp,adjective,capital,literal,loudly,John,1,"John and Mary went to the library together.*While they were studying, Mary answered several phone calls, in a very loud voice.*John said that*Mary was speaking*TOO*loudly*for his*liking.",6,Were John and Mary at the library?,1,1,,,,,,,,,,,,
 1,library_cap_sarc,library,2,library2,exp,adjective,capital,sarcastic,quietly,John,1,"John and Mary went to the library together.*While they were studying, Mary answered several phone calls, in a very loud voice.*John said that*Mary was speaking*TOO*quietly*for his*liking.",6,Were John and Mary at the library?,1,1,,,,,,,,,,,,
 1,library_non_lit,library,3,library3,exp,adjective,noncapital,literal,loudly,John,1,"John and Mary went to the library together.*While they were studying, Mary answered several phone calls, in a very loud voice.*John said that*Mary was speaking*too*loudly*for his*liking.",6,Were John and Mary at the library?,1,1,,,,,,,,,,,,
@@ -998,3 +998,4 @@
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
